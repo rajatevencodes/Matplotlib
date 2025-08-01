@@ -79,8 +79,6 @@ pyproject.toml
 # UV cache
 .uv/
 
-# Requirements
-requirements.txt
 
 # Misc
 *.swp

@@ -1,0 +1,5 @@
+ipykernel # Jupyter Notebook
+seaborn 
+matplotlib
+jupyterlab
+numpy # To Generate Fake Data
